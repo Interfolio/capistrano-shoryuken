@@ -5,7 +5,7 @@ Shoryuken integration for Capistrano.  Loosely based on `capistrano-sidekiq`
 
 Add this line to your application's Gemfile:
 
-    gem 'capistrano-shoryuken', github: 'joekhoobyar/capistrano-shoryuken'
+    gem 'capistrano-shoryuken', github: 'interfolio/capistrano-shoryuken'
 
 or:
 
@@ -43,6 +43,7 @@ Configurable options, shown here with defaults (using Capistrano 3 syntax):
 ```
 
 ## Changelog
+- 0.1.6: Fix capistrano warning for previously invoked shoryuken:stop
 - 0.1.5: Bug fix when using Capistrano 2
 - 0.1.4: Minimum ruby 1.9.2
 - 0.1.3: Fix erroneous auto-loading from Bundler.require
@@ -52,7 +53,7 @@ Configurable options, shown here with defaults (using Capistrano 3 syntax):
 
 ## Contributors
 
-- [Joe Khoobyar] (https://github.com/joekhoobyar)
+- [Interfolio] (https://github.com/interfolio)
 
 ## Contributing
 

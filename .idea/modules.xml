@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../capistrano-interfolio/.idea/capistrano-interfolio.iml" filepath="$PROJECT_DIR$/../capistrano-interfolio/.idea/capistrano-interfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/capistrano-shoryuken.iml" filepath="$PROJECT_DIR$/.idea/capistrano-shoryuken.iml" />
+    </modules>
+  </component>
+</project>
